@@ -12,6 +12,10 @@ function App() {
     <div>
     <Home/>
     <Create/>
+
+    <Create>
+      
+    </Create>
     </div>
   
 
